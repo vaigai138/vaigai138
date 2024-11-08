@@ -1,4 +1,3 @@
-Here's a completed version of your bio:
 
 - 👋 Hi, I’m @vaigai138
 - 👀 I’m interested in development, especially in AI, MERN stack, and cloud technologies.
